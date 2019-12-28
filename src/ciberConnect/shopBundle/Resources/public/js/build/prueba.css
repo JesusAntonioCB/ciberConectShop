@@ -1,0 +1,7 @@
+.fb-comments {
+  background-color: gray; }
+  .fb-comments iframe {
+    color: white !important; }
+    .fb-comments iframe body {
+      background-color: blue; }
+

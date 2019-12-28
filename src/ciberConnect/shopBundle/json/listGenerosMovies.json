@@ -1,0 +1,43 @@
+[
+  {
+    "convencionales":[
+      {
+        "nombre": "Acción"
+      },
+      {
+        "nombre": "Animación"
+      },
+      {
+        "nombre": "Aventura/Fantasia"
+      },
+      {
+        "nombre": "Comedia"
+      },
+      {
+        "nombre": "Documentales"
+      },
+      {
+        "nombre": "Drama"
+      },
+      {
+        "nombre": "Suspenso"
+      },
+      {
+        "nombre": "Romance"
+      },
+      {
+        "nombre": "Terror"
+      }
+    ]
+  },
+  {
+    "otros":[
+      {
+        "nombre":"Estrenos"
+      },
+      {
+        "nombre":"1080p"
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+ciber_connectshop_homepage:
+    path:     /
+    defaults: { _controller: ciberConnectshopBundle:Default:index }
+
+page_peliculas:
+    path:    /Peliculas/p={page}
+    controller: ciberConnectshopBundle:Default:peliulas
+    defaults:
+      page: 1
+
+individual_pelicula:
+    path:    /Peliculas/{movie}
+    controller: ciberConnectshopBundle:Default:peliula
+    defaults:
+      movie: ""
+
+page_servicios:
+    path:     /Servicios
+    controller: ciberConnectshopBundle:Default:servicios
+
+page_musica:
+    path:     /Musica
+    controller: ciberConnectshopBundle:Default:musica
+
+page_productos:
+    path:     /Productos
+    controller: ciberConnectshopBundle:Default:productos

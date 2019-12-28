@@ -1,0 +1,128 @@
+{
+  {
+    "id": "1",
+    "nombreEsp": "Iron Man: El hombre de hierro",
+    "precio": 10,
+    "Descripcion": "Iron Man es la historia del industrial multimillonario y genio inventor Tony Stark. Como consejero delegado de Industrias Stark, el mayor contratista de armamento del Gobierno norteamericano, Tony se ha hecho célebre por proteger durante décadas los intereses norteamericanos en todo el mundo.",
+    "imagen": "p-iron-man-1.JPG",
+    "genero":  {
+      {
+        "id" => 4
+        "nombre" => "Comedia"
+      }
+      {
+        "id" => 8
+        "nombre" => "Romance"
+      }
+    },
+    "year":"2010",
+    "calidad": "1080p",
+    "puntaje": "7.9",
+    "subGenero": "Marvel"
+  },
+  {
+    "id": "2",
+    "nombreEsp": "Iron Man 2",
+    "precio": 10,
+    "Descripcion": "Ahora que el mundo sabe que el multimillonario industrial Tony Stark (Robert Downey Jr.) es Iron Man, Tony quiere poner de relieve los beneficios del traje de Iron Man relanzando la extravagante idea de su difunto padre de la Expo Stark, una exposición de las innovaciones humanitarias basadas en sus tecnologías.",
+    "imagen": "p-iron-man-2.JPG",
+    "genero": {
+      {
+        "id" => 4
+        "nombre" => "Comedia"
+      }
+      {
+        "id" => 8
+        "nombre" => "Romance"
+      }
+    },
+    "year":"2010",
+    "calidad": "1080p",
+    "puntaje": "7.0",
+    "subGenero": "Marvel"
+  },
+  {
+    "id": "3",
+    "nombreEsp": "Iron Man 3",
+    "precio": 10,
+    "Descripcion": "Iron Man es la historia del industrial multimillonario y genio inventor Tony Stark (ROBERT DOWNEY JR.). Como consejero delegado de Industrias Stark, el mayor contratista de armamento del Gobierno norteamericano, Tony se ha hecho célebre por proteger durante décadas los intereses norteamericanos en todo el mundo.",
+    "imagen": "p-iron-man-3.JPG",
+    "genero": {
+      {
+        "id" => 4
+        "nombre" => "Comedia"
+      }
+      {
+        "id" => 8
+        "nombre" => "Romance"
+      }
+    },
+    "year":"2010",
+    "calidad": "1080p",
+    "puntaje": "7.3",
+    "subGenero": "Marvel"
+  },
+  {
+    "id": "1",
+    "nombreEsp": "Capitán América: El primer vengador",
+    "precio": 10,
+    "Descripcion": "Iron Man es la historia del industrial multimillonario y genio inventor Tony Stark. Como consejero delegado de Industrias Stark, el mayor contratista de armamento del Gobierno norteamericano, Tony se ha hecho célebre por proteger durante décadas los intereses norteamericanos en todo el mundo.",
+    "imagen": "capitana1.jpg",
+    "genero": {
+      {
+        "id" => 4
+        "nombre" => "Comedia"
+      }
+      {
+        "id" => 8
+        "nombre" => "Romance"
+      }
+    },
+    "year":"2011",
+    "calidad": "1080p",
+    "puntaje": "6.9",
+    "subGenero": "Marvel"
+  },
+  {
+    "id": "2",
+    "nombreEsp": "Capitán América y el Soldado del Invierno",
+    "precio": 10,
+    "Descripcion": "Ahora que el mundo sabe que el multimillonario industrial Tony Stark (Robert Downey Jr.) es Iron Man, Tony quiere poner de relieve los beneficios del traje de Iron Man relanzando la extravagante idea de su difunto padre de la Expo Stark, una exposición de las innovaciones humanitarias basadas en sus tecnologías.",
+    "imagen": "capitana2.jpg",
+    "genero": {
+      {
+        "id" => 4
+        "nombre" => "Comedia"
+      }
+      {
+        "id" => 8
+        "nombre" => "Romance"
+      }
+    },
+    "year":"2014",
+    "calidad": "1080p",
+    "puntaje": "7.8",
+    "subGenero": "Marvel"
+  },
+  {
+    "id": "3",
+    "nombreEsp": "Capitán América: Civil War ",
+    "precio": 10,
+    "Descripcion": "Iron Man es la historia del industrial multimillonario y genio inventor Tony Stark (ROBERT DOWNEY JR.). Como consejero delegado de Industrias Stark, el mayor contratista de armamento del Gobierno norteamericano, Tony se ha hecho célebre por proteger durante décadas los intereses norteamericanos en todo el mundo.",
+    "imagen": "capitana3.jpg",
+    "genero": {
+      {
+        "id" => 4
+        "nombre" => "Comedia"
+      }
+      {
+        "id" => 8
+        "nombre" => "Romance"
+      }
+    },
+    "year":"2016",
+    "calidad": "1080p",
+    "puntaje": "7.8",
+    "subGenero": "Marvel"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "ciberconnectshop",
+  "version": "1.0.0",
+  "description": "Tienda del Ciber",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.0",
+    "popper.js": "^1.15.0"
+  },
+  "devDependencies": {
+    "@symfony/webpack-encore": "^0.27.0",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "webpack-notifier": "^1.7.0"
+  }
+}

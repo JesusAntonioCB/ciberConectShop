@@ -1,0 +1,19 @@
+{
+  "entrypoints": {
+    "outputJs": {
+      "js": [
+        "/build/outputJs.js"
+      ]
+    },
+    "outputCss": {
+      "css": [
+        "/build/outputCss.css"
+      ]
+    },
+    "prueba": {
+      "css": [
+        "/build/prueba.css"
+      ]
+    }
+  }
+}
